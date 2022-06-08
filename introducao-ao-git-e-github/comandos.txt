@@ -1,0 +1,6 @@
+git init -> Para iniciar um repositorio local
+git add arquivo ou (*,.) para todos os arquivos-> Adiciona o arquivo, alterando de untracked para tracked
+git status -> Lista o status da branch, como estao os arquivos
+git push repositorio_remoto branch_local -> Envia tudo o que você fez commit para o reprositorio remoto(servidor)
+git pull repositorio_remoto branch_local -> Pega as novas atualizacoes que estao no repositorio remoto e atualiza no seu reprositorio local
+
